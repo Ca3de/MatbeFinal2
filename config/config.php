@@ -2,16 +2,16 @@
 
 return [
     'db' => [
-        'host' => 'sql.freedb.tech',
-        'database' => 'freedb_church_db',
-        'user' => 'freedb_DentalB',
-        'pass' => 'QGaU?VQQhu4zP6n',
+        'host' => 'sql301.infinityfree.com',
+        'database' => 'if0_38146716_church_db',
+        'user' => 'if0_38146716',
+        'pass' => ' o7Ls2tgKHxb1',
         'port' => 3306
     ],
     'youtube' => [
-        'api_key' => 'YOUR_YOUTUBE_API_KEY',
+        'api_key'     => 'YOUR_YOUTUBE_API_KEY',
         'playlist_id' => 'YOUR_PLAYLIST_ID'
     ],
-    // Adjust this base URL as needed, e.g. for local dev:
-    'base_url' => 'http://localhost/churchweb/public'
+    'base_url' => 'allsaintsindy.ct.ws ' 
+    // or https://yourname.epizy.com if SSL is set up
 ];
