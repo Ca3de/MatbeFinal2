@@ -4,8 +4,8 @@ return [
     'db' => [
         'host' => 'sql.freedb.tech',
         'database' => 'freedb_church_db',
-        'user' => 'YOUR_DB_USERNAME',
-        'pass' => 'YOUR_DB_PASSWORD',
+        'user' => 'freedb_DentalB',
+        'pass' => 'QGaU?VQQhu4zP6n',
         'port' => 3306
     ],
     'youtube' => [
